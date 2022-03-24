@@ -1,0 +1,27 @@
+.time_by_city{
+    display: flex;
+    align-items: center;
+}
+main  h1{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+main input{
+    padding: 10px;
+    width: 230px;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    color:black;
+    font-size: 17px;
+    margin-left: 10px;
+}
+main > p{
+font-weight: 400;
+font-size: 17px;
+line-height: 30px;
+color: #959595;
+}

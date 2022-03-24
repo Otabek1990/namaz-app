@@ -1,0 +1,57 @@
+.time{
+    position: relative;
+    background-color: blue;
+    padding:20px 0;
+    height: 320px;
+}
+.time img{
+    height: 250px;
+    position: absolute;
+    left:-280px;
+
+}
+.namoz_time{
+    position: absolute;
+    top:80px;
+    left: -180px;
+
+}
+.namoz_time p{
+width: 300px;
+text-align: center;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #9699B1;
+padding-bottom: 30px;
+border-bottom: 1px solid  #2F3142;
+}
+.show_time{
+    display: flex;
+    justify-content: center;
+    height: 130px;
+}
+.hour,.minute{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.show_time .hour{
+    border-right: 1px solid  #2F3142;
+    padding-right: 30px;
+   
+}
+
+.show_time .minute{
+    padding-left: 30px;
+}
+.show_time  h1{
+font-style: normal;
+font-weight: 275;
+font-size: 90px;
+line-height: 105px;
+color: #FFFFFF;
+}
+.show_time span{
+   color:#9699B1;
+}
