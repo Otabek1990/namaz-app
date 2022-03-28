@@ -12,7 +12,6 @@ import Xufton from '../../assets/images/Namaz-times/hufton.png';
 
 function NamazTimes({namazInfos}) {
   const [namazTimeDatas, setNamazTimeDatas] = useState([])
-  console.log(namazInfos)
   useEffect(() => {
     setNamazTimeDatas([
        {image:Bomdod,title:"Bomdod",time:namazInfos.length>0 ? namazInfos[0].fajr:"05:37"},

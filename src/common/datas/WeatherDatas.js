@@ -9,9 +9,9 @@ import Snowy from '../../assets/images/weather/snowy.png';
 export const WeatherDatas=[
     {image:PartlyCloud,day:"Du",gradus:"23"},
     {image:NightStorm,day:"Se",gradus:"23"},
-    {image:PartlyCloud,day:"Chor",gradus:"23"},
-    {image:PartlyCloud,day:"Pay",gradus:"23"},
-    {image:PartlyCloud,day:"Ju",gradus:"23"},
-    {image:PartlyCloud,day:"Shan",gradus:"23"},
+    {image:PartlyDayStorm,day:"Chor",gradus:"23"},
+    {image:RainThunder,day:"Pay",gradus:"23"},
+    {image:Rainy,day:"Ju",gradus:"23"},
+    {image:Snowy,day:"Shan",gradus:"23"},
 
 ]
