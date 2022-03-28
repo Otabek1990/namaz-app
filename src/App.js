@@ -12,7 +12,7 @@ function App() {
           {AllRoutes.map((route, index) => (
             <Route key={index} path={route.path} element={route.element} />
           ))}
-        </Routes>
+        </Routes> 
       </Router>
     </div>
   );
