@@ -6,8 +6,8 @@ function Navbar() {
   return (
       <nav>
         <div className="nav_left">
-        <Link to='/'> <img src={Logo} alt="logo" /></Link>
-         <Link to='/' className='logo_text'>MyNamaz</Link>
+        <Link to='/namaz-app'> <img src={Logo} alt="logo" /></Link>
+         <Link to='/namaz-app' className='logo_text'>MyNamaz</Link>
         </div>
         <div className="nav_right">
           <Link className='link' to="/weather">Ob-havo</Link>

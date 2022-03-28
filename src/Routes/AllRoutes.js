@@ -5,7 +5,7 @@ import Tasbeh from '../pages/Tasbeh/Tasbeh';
 import Weather from '../pages/Weather/Weather';
 
 const AllRoutes=[
-    {path:"/",element:<Main/>},
+    {path:"/namaz-app",element:<Main/>},
     {path:"/tasbeh",element:<Tasbeh/>},
     {path:"/weather",element:<Weather/>},
     {path:"*",element:<NotFound/>}
