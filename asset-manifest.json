@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/namaz-app/static/css/main.6ad59740.css",
+    "main.js": "/namaz-app/static/js/main.2b61220e.js",
+    "static/media/rain_thunder.png": "/namaz-app/static/media/rain_thunder.f346f71c72e6dff95553.png",
+    "static/media/snowy.png": "/namaz-app/static/media/snowy.f86847757d549f900147.png",
+    "static/media/rainy.png": "/namaz-app/static/media/rainy.ae90ffe81a87de36b840.png",
+    "static/media/partly_cloudy.png": "/namaz-app/static/media/partly_cloudy.a97c7bc10e751b7557aa.png",
+    "static/media/night_storm.png": "/namaz-app/static/media/night_storm.c57d2340653faf1f6626.png",
+    "static/media/partly_day_storm.png": "/namaz-app/static/media/partly_day_storm.1500cdeb17130028020d.png",
+    "index.html": "/namaz-app/index.html",
+    "main.6ad59740.css.map": "/namaz-app/static/css/main.6ad59740.css.map",
+    "main.2b61220e.js.map": "/namaz-app/static/js/main.2b61220e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad59740.css",
+    "static/js/main.2b61220e.js"
+  ]
+}
